@@ -1,0 +1,8 @@
+# Set this to your own Supabase project ref (dashboard → Project Settings → Reference ID).
+project_id = "hkwhpxshixqqfmcipjkb"
+
+[functions.virustotal-proxy]
+verify_jwt = false
+
+[functions.recon]
+verify_jwt = false
